@@ -1,2 +1,2 @@
 # hello-world
-Practicing for GiHub
+Practicing for GitHub
